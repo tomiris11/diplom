@@ -2,4 +2,21 @@
   width: 100%;
 }
 
+body {
+  flex-direction: column;
+  width: 70%;
+}
+
+header nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+header nav a {
+  color: gray;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 20px;
+}
+
 /*# sourceMappingURL=style.css.map */
