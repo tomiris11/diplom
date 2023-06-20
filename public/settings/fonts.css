@@ -1,29 +1,29 @@
 @font-face {
-  font-family: "Montserrat";
-  src: url("./fonts/Montserrat-Light.ttf");
+  font-family: "Exo2";
+  src: url("./fonts/Exo2-ExtraLight.ttf");
   font-weight: 300;
 }
 
 @font-face {
-  font-family: "Montserrat";
-  src: url("./fonts/Montserrat-Regular.ttf");
+  font-family: "Exo2";
+  src: url("./fonts/Exo2-Regular.ttf");
   font-weight: 400;
 }
 
 @font-face {
-  font-family: "Montserrat";
-  src: url("./fonts/Montserrat-Medium.ttf");
+  font-family: "Exo2";
+  src: url("./fonts/Exo2-Medium.ttf");
   font-weight: 500;
 }
 
 @font-face {
-  font-family: "Montserrat";
-  src: url("./fonts/Montserrat-Bold.ttf");
+  font-family: "Exo2";
+  src: url("./fonts/Exo2-Bold.ttf");
   font-weight: 700;
 }
 
 @font-face {
-  font-family: "Montserrat";
-  src: url("./fonts/Montserrat-Black.ttf");
+  font-family: "Exo2";
+  src: url("./fonts/Exo2-Black.ttf");
   font-weight: 900;
 }
